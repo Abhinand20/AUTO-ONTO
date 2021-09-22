@@ -3,5 +3,10 @@ AUTO-ONTO is a one-stop solution to extract an ontology from text corpus spannin
 
 The file autonto.py has all the algorithm code and the Autonto_main.ipynb is a jupyter notebook that has the main code to run the model on a dataset. Some sample outputs are present in the output directory.
 
+## Below is the approach we propose in our solution for generating ontologies -
 
+![Overall Approach](https://github.com/Abhinand20/AUTO-ONTO/blob/main/imgs/approach.PNG)
 
+## Flow chart and deep dive -
+
+![Flow Chart](https://github.com/Abhinand20/AUTO-ONTO/blob/main/imgs/Flow.PNG)
